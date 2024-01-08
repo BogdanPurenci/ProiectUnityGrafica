@@ -19,13 +19,21 @@
 ## Motorul grafic care permite afisarea si manipularea obiectelor 3D este Unity Engine.
 
 ## Utilizarea transformarilor tridimensionale : 
-### 1.Translatia
+### 1. Translatia
 ### 2. Rotatia
-### 3. Scalare
+### 3. Scalarea
+### 4. Deformarea
 
-## Am utilizat aspecte de texturare si iluminare precum Bloom, Ambient Occlusion, Vignette, Color Grading (sunt prezente in interiorul obiectului Global Post)
+### Translatia + Deformarea : 
+![Translatia+Deformare](https://github.com/BogdanPurenci/ProiectUnityGrafica/assets/116735469/0c6931e6-3fdb-436c-b59a-46c61bb0e8ef)
 
-## Am utilizat un sistem de iluminare
+### Rotatia + Scalarea
+![Rotatia + Scalarea](https://github.com/BogdanPurenci/ProiectUnityGrafica/assets/116735469/bd2d40b7-7337-4129-ad31-bf45cc5f5581)
+
+
+## Am utilizat aspecte de shader programming precum Bloom, Ambient Occlusion, Vignette, Color Grading (sunt prezente in interiorul obiectului Global Post)
+
+## Am utilizat un sistem de iluminare (Directional Light)
 
 ## Am implementat o camera care urmareste player-ul
 
@@ -37,4 +45,8 @@
 ## Am implementat un sunet de fundal care este prezent pe tot parcursul timpului in care jocul este pornit (dupa ce se incepe jocul)
 
 ## Testarea jocului a fost realizata 100% pentru a asigura toate functionalitatile.
+
+# Un mic preview al scenei din joc dupa apasarea tastei E
+![Joc3DPreview](https://github.com/BogdanPurenci/ProiectUnityGrafica/assets/116735469/0e9d62fd-2659-4861-a025-88a45b75328c)
+
 
