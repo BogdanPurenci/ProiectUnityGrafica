@@ -31,6 +31,8 @@
 ### Rotatia + Scalarea
 ![Rotatia + Scalarea](https://github.com/BogdanPurenci/ProiectUnityGrafica/assets/116735469/bd2d40b7-7337-4129-ad31-bf45cc5f5581)
 
+### Oglindirea
+![Oglindirea](https://github.com/BogdanPurenci/ProiectUnityGrafica/assets/116735469/e54a04f4-5af0-4573-9302-aed14dbf40bf)
 
 ## Am utilizat aspecte de shader programming precum Bloom, Ambient Occlusion, Vignette, Color Grading (sunt prezente in interiorul obiectului Global Post)
 ![shadering](https://github.com/BogdanPurenci/ProiectUnityGrafica/assets/116735469/12551f5e-43ee-444d-9c23-cc8d4c3eae54)
