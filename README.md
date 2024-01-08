@@ -32,6 +32,8 @@
 
 
 ## Am utilizat aspecte de shader programming precum Bloom, Ambient Occlusion, Vignette, Color Grading (sunt prezente in interiorul obiectului Global Post)
+![shadering](https://github.com/BogdanPurenci/ProiectUnityGrafica/assets/116735469/12551f5e-43ee-444d-9c23-cc8d4c3eae54)
+
 
 ## Am utilizat un sistem de iluminare (Directional Light)
 
