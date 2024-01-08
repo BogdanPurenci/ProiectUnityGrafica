@@ -23,6 +23,7 @@
 ### 2. Rotatia
 ### 3. Scalarea
 ### 4. Deformarea
+### 5. Oglindirea
 
 ### Translatia + Deformarea : 
 ![Translatia+Deformare](https://github.com/BogdanPurenci/ProiectUnityGrafica/assets/116735469/0c6931e6-3fdb-436c-b59a-46c61bb0e8ef)
