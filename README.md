@@ -21,7 +21,7 @@
 ### 2. Rotatia
 ### 3. Scalare
 
-## Am utilizat aspecte de texturare precum Bloom, Ambient Occlusion, Vignette, Color Grading (sunt prezente in interiorul obiectului Global Post)
+## Am utilizat aspecte de texturare si iluminare precum Bloom, Ambient Occlusion, Vignette, Color Grading (sunt prezente in interiorul obiectului Global Post)
 
 ## Am utilizat un sistem de iluminare
 
